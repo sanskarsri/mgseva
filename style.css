@@ -1,0 +1,17 @@
+#exampleModal{
+    background-color: #fff;
+    max-width: 600px;
+    padding: 40px 50px;
+    z-index: 2000000000;
+}
+.modal-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.modal-header span{
+    font-size: 40px;
+}
+html {
+    scroll-behavior: smooth;
+  }
